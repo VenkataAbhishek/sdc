@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('C:\\Users\\ANIL KUMAR\\OneDrive\\Desktop\\image.jpg'); /* Background image */
+    background-image: url('image.jpg'); /* Background image */
     background-size: cover;
 }
 
